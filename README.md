@@ -24,7 +24,7 @@
 |---|---|---|
 | [claude-skills](https://github.com/flexda/claude-skills) | 반복되는 AI 작업을 재사용 가능한 절차와 도구로 정리 | 공개 · 계속 개선 중 |
 | [flexda-github-renew](https://github.com/flexda/flexda-github-renew) | 과거 작업을 다시 연결하고 앞으로의 기록을 쌓는 포트폴리오 | 공개 · 구축 중 |
-| [BigQuery Release Pulse](https://github.com/flexda/antigravity-event-talks-app) | BigQuery 릴리스 노트를 모아 최신 변화를 보여주는 웹 실험 | 공개 · 설명 보강 중 |
+| [BigQuery Release Pulse](https://github.com/flexda/antigravity-event-talks-app) | BigQuery 릴리스 노트를 모아 최신 변화를 보여주는 웹 실험 | 공개 · 프로토타입 |
 | [rag-chatbot](https://github.com/flexda/rag-chatbot) | Claude Code 강의를 따라 만든 RAG 챗봇 학습 프로젝트 | 학습 기록 |
 
 ## Journey
