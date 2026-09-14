@@ -8,24 +8,23 @@
 
 ### Non-developer, building AI-native ways of working.
 
-비개발자로 시작해 데이터 분석, 자동화, AI 에이전트까지 직접 실습하며 확장하고 있습니다.  
-완성된 결과만 전시하기보다 **무엇을 발견했고, 어떻게 실험했고, 무엇을 배웠는지** 기록합니다.
+생성형 AI 덕분에 비개발자로 데이터 분석, 자동화, AI 에이전트를 통해 다양한 호기심을 실제 결과물로 만들어보고 있습니다. 
 
-## 지금 탐색하는 것
 
-- 복잡한 업무와 정보를 이해하기 쉬운 구조로 바꾸는 방법
-- 반복 작업을 줄이는 AI 워크플로와 자동화
-- 사람과 여러 AI 에이전트가 협업하는 방식
-- 기술과 비기술 사이를 연결하는 문제 해결 과정
+## 요즘 하고 있는 것
+
+- 반복하는 작업들을 skill 로 만들기 
+- 내가 사용하는 작업환경을 편하게 자동화하기 
+- 그동안 쓴 글들을 github 콘텐츠로 정리하기 
+
 
 ## Selected work
 
 | 프로젝트 | 무엇을 담고 있나 | 상태 |
 |---|---|---|
-| [claude-skills](https://github.com/flexda/claude-skills) | 반복되는 AI 작업을 재사용 가능한 절차와 도구로 정리 | 공개 · 계속 개선 중 |
-| [flexda-github-renew](https://github.com/flexda/flexda-github-renew) | 과거 작업을 다시 연결하고 앞으로의 기록을 쌓는 포트폴리오 | 공개 · 구축 중 |
-| [BigQuery Release Pulse](https://github.com/flexda/antigravity-event-talks-app) | BigQuery 릴리스 노트를 모아 최신 변화를 보여주는 웹 실험 | 공개 · 프로토타입 |
-| [rag-chatbot](https://github.com/flexda/rag-chatbot) | Claude Code 강의를 따라 만든 RAG 챗봇 학습 프로젝트 | 학습 기록 |
+| [claude-skills](https://github.com/flexda/claude-skills) | claude 로 한 다양한 작업의 워크플로우를 담은 스킬  | 공개 · 계속 개선 중 |
+| [flexda-github-renew](https://github.com/flexda/flexda-github-renew) | 비개발자의 생성형 AI 사용 기록을 github에 정리하기 | 공개 · 구축 중 |
+
 
 ## Journey
 
