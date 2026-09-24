@@ -1,0 +1,33 @@
+name: Update daily profile image
+
+on:
+  schedule:
+    - cron: "15 15 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-profile-image
+  cancel-in-progress: false
+
+jobs:
+  update-profile-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v4
+      - name: Select today's image in Korea time
+        run: python3 scripts/update_profile_image.py
+      - name: Commit the daily image update
+        run: |
+          if git diff --quiet -- README.md; then
+            echo "README already points to today's image."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Update daily GitHub profile image"
+          git push

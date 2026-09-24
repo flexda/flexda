@@ -1,5 +1,5 @@
 <img
-  src="https://flexda.github.io/flexda-github-renew/assets/hero.png"
+  src="https://raw.githubusercontent.com/flexda/flexda/main/assets/daily-hero/lakeside-tent.jpg"
   alt="흩어진 개인 기록이 빛나는 연결선을 따라 정돈된 지식 지도로 확장되는 모습"
   width="100%"
 />
